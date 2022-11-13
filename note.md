@@ -1,6 +1,7 @@
 # Big O notation
 
-- measure time and space complexity
+- To analyze the performance of algorithm
+- Measure time and space complexity
 
 ## Time Complexity
 
@@ -38,6 +39,10 @@ Arithmatic Operation, Variable, Access element in array or object by key or inde
 - Strings require **O(n)** space
 - Arrays and Objects require **O(n)** space 
 
+## Logarithms
 
+- Logarithms time complexity is great!
+
+![Comparison of Big O computations](https://upload.wikimedia.org/wikipedia/commons/7/7e/Comparison_computational_complexity.svg)
 
 
