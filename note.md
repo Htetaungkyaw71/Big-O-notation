@@ -2,7 +2,7 @@
 
 - measure time and space complexity
 
-## time measurement
+## Time Complexity
 
 - Start time
 - Run function
