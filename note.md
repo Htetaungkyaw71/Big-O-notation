@@ -30,6 +30,14 @@ Nested Loop
 Arithmatic Operation, Variable, Access element in array or object by key or index
 - O(1)
 
+## Space Complexity
+
+- auxiliary space complexity
+- Not measure input size and Measure data inside algorithm
+- Primitives Type(Boolean, Numbers, Undefined, Null) are constant space **O(1)**
+- Strings require **O(n)** space
+- Arrays and Objects require **O(n)** space 
+
 
 
 
