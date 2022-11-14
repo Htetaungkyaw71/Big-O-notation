@@ -60,4 +60,15 @@ Arithmatic Operation, Variable, Access element in array or object by key or inde
 - Objects.entries **O(n)**
 - Objects.hasOwnProperty **O(1)**
 
+## Big O of Array
+
+- Insert **It depends...**
+- Push **O(1)**
+- UnShift **O(n)**
+- Remove **It depends...**
+- Pop **O(1)**
+- Shift **O(n)**
+- Search **O(n)**
+- Access **O(1)**
+
 
