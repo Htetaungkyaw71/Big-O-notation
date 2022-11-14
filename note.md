@@ -46,3 +46,18 @@ Arithmatic Operation, Variable, Access element in array or object by key or inde
 ![Comparison of Big O computations](https://upload.wikimedia.org/wikipedia/commons/7/7e/Comparison_computational_complexity.svg)
 
 
+## Big O of Objects
+
+- Insert **O(1)**
+- Remove **O(1)**
+- Search **O(n)**
+- Access **O(1)**
+
+## Big O of Objects Methods
+
+- Objects.keys **O(n)**
+- Objects.values **O(n)**
+- Objects.entries **O(n)**
+- Objects.hasOwnProperty **O(1)**
+
+
